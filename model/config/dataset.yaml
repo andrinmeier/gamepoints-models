@@ -1,0 +1,6 @@
+train: C:/Projects/gamepoints/data/annotated_yolo/images/train
+val: C:/Projects/gamepoints/data/annotated_yolo/images/val
+
+# Classes
+nc: 53  # number of classes
+names: ['Black_Club_10','Black_Club_2','Black_Club_3','Black_Club_4','Black_Club_5','Black_Club_6','Black_Club_7','Black_Club_8','Black_Club_9','Black_Club_Ace','Black_Club_Jack','Black_Club_King','Black_Club_Queen','Black_Spade_10','Black_Spade_2','Black_Spade_3','Black_Spade_4','Black_Spade_5','Black_Spade_6','Black_Spade_7','Black_Spade_8','Black_Spade_9','Black_Spade_Ace','Black_Spade_Jack','Black_Spade_King','Black_Spade_Queen','Red_Diamond_10','Red_Diamond_2','Red_Diamond_3','Red_Diamond_4','Red_Diamond_5','Red_Diamond_6','Red_Diamond_7','Red_Diamond_8','Red_Diamond_9','Red_Diamond_Ace','Red_Diamond_Jack','Red_Diamond_King','Red_Diamond_Queen','Red_Heart_10','Red_Heart_2','Red_Heart_3','Red_Heart_4','Red_Heart_5','Red_Heart_6','Red_Heart_7','Red_Heart_8','Red_Heart_9','Red_Heart_Ace','Red_Heart_Jack','Red_Heart_King','Red_Heart_Queen', 'Joker']
